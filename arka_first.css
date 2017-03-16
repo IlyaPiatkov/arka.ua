@@ -1,0 +1,111 @@
+.animation{
+	width: 970px;
+	height: 285px;
+	background: url("img/animation.jpg");
+	margin-top: 20px;
+}
+.button_animation{
+	width: 970px;
+	height: 25px;
+	background: url("img/animation2.jpg");
+	margin: 15px 0;
+}
+.grid{
+	width: 990px;
+	height: 378px;
+}
+.grid_all{
+	position: relative;
+	float: left;
+	width: 315px;
+	height: 378px;
+	background: #f7f7f9;
+	border: 1px solid #D1D1D2;
+	margin-right: 10px;
+	border-radius: 5px;
+}
+.title_grid{
+	margin: 10px 20px;
+	color: #666;
+}
+.icon_grid{
+	width: 30px;
+	height: 30px;
+	float: left;
+	background: url("img/module_icons.png") no-repeat 0 0;
+}
+.icon_grid_2{
+	background-position: 0 -150px;
+}
+.icon_grid_3{
+	background-position: 0 -90px;
+}
+.title_grid_1{
+	float: left;
+	font-size: 25px;
+}
+.line_grid{
+	clear: both;
+	background-color: #C1433F;
+	width: auto;
+	height: 3px;
+	margin: 45px 20px 10px 20px;
+}
+.text_grid{
+	margin: 0 20px;
+	list-style: none;	
+}
+.text_grid li a{
+	text-decoration: none;
+	margin: 10px;
+	padding-left: 10px;
+	border-left: 1px solid #D1D1D2;
+	color: #777;
+}
+.text_grid .icon2{
+	border-bottom: 1px solid #DDDDDF;
+	padding: 9px;
+}
+#fix_bor{
+	border-bottom: 1px solid #f7f7f9;
+}
+.text_grid li a:hover{
+	color: #c1433f;
+}
+.grid_false{
+	position: absolute;
+	top: 371px;
+	right: -1px;
+	width: 315px;
+	height: 10px;
+	border: 1px solid #969698;
+	border-radius: 5px;
+	background: #C3C3C3;
+	z-index: -10;
+}
+.grid_all a img{
+	margin: 15px 0 0 20px;
+}
+.grid_all span{
+	display: inline-block;
+	font-size: 13px;
+	line-height: 20px;
+	text-align: justify;
+	margin: 15px 20px;
+	color: #777;
+}
+.animation2{
+	clear: both;
+	width: 970px;
+	height: 110px;
+	border: 1px solid #D1D1D2;
+	border-radius: 5px;
+	margin-top: 20px;
+	background: url("img/animation3.jpg") no-repeat 50% 50%, #F7F7F9;
+}
+.animation2_false{
+	top: 1068px;
+	left: 50%;
+	margin-left: -485px;
+	width: 970px;
+}
